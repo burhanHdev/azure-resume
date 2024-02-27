@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sitecounter649293;AccountKey=2YQRYxmo2yl/IL9wKXHdfoort6kELJNliY7Dc/bU8nFmOHTe/Dd59tjevE9I2pLjIdeglGcdJwRx+AStIlZmvg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "sitecounternosql_DOCUMENTDB": "AccountEndpoint=https://sitecounternosql.documents.azure.com:443/;AccountKey=tmlbWHrXXDZzyuyizKWGHjDUREaW3OsUHvgOwIRAcdnIF6v7GCr4FYxiAcxQKdEodrTybotLCKHDACDbRpm0rA==;",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=sitecounter649293;AccountKey=2YQRYxmo2yl/IL9wKXHdfoort6kELJNliY7Dc/bU8nFmOHTe/Dd59tjevE9I2pLjIdeglGcdJwRx+AStIlZmvg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "sitecounter1c5c23",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "ee2be64f-2b6b-4d9b-acad-32ef4c94653c",
+    "CosmosDbConnectionSetting": "AccountEndpoint=https://sitecounternosql.documents.azure.com:443/;AccountKey=tmlbWHrXXDZzyuyizKWGHjDUREaW3OsUHvgOwIRAcdnIF6v7GCr4FYxiAcxQKdEodrTybotLCKHDACDbRpm0rA=="
+  }
+}
